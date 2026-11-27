@@ -1,0 +1,25 @@
+{
+  "app": {
+    "name": "Ricettario",
+    "tagline": "Deine Rezepte, deine Küche, dein Atlas."
+  },
+  "home": {
+    "welcome": "Willkommen",
+    "intro": "Das Rezeptarchiv kommt bald. Bis dahin kannst du in den Einstellungen die Sprache der App wählen.",
+    "openSettings": "Einstellungen"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "language": {
+      "title": "Sprache",
+      "description": "Wähle die Sprache der App. Systemsprache folgt deinem Handy.",
+      "system": "Systemsprache",
+      "systemCurrent": "Systemsprache ({{language}})"
+    }
+  },
+  "language": {
+    "de": "Deutsch",
+    "en": "English",
+    "it": "Italiano"
+  }
+}

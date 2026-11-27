@@ -1,0 +1,25 @@
+{
+  "app": {
+    "name": "Ricettario",
+    "tagline": "Le tue ricette, la tua cucina, il tuo atlante."
+  },
+  "home": {
+    "welcome": "Benvenuto",
+    "intro": "L'archivio delle ricette arriverà presto. Per ora puoi scegliere la lingua dell'app nelle impostazioni.",
+    "openSettings": "Impostazioni"
+  },
+  "settings": {
+    "title": "Impostazioni",
+    "language": {
+      "title": "Lingua",
+      "description": "Scegli la lingua dell'app. Lingua di sistema segue il tuo telefono.",
+      "system": "Lingua di sistema",
+      "systemCurrent": "Lingua di sistema ({{language}})"
+    }
+  },
+  "language": {
+    "de": "Deutsch",
+    "en": "English",
+    "it": "Italiano"
+  }
+}

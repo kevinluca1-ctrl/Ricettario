@@ -1,10 +1,12 @@
 # CLAUDE.md
 
 ## Project
+
 Recipe archive + home kitchen ERP. Expo (React Native) + TypeScript + Supabase.
 Full plan: docs/PLAN.md. Work only on the phase I name.
 
 ## Rules
+
 - TypeScript strict, no `any`.
 - No hardcoded UI strings. All text via i18next (de, en, it). Add keys to all three files.
 - Never put API keys in the app. AI calls only via Supabase Edge Functions.
@@ -18,6 +20,8 @@ Full plan: docs/PLAN.md. Work only on the phase I name.
 - Do not use the em dash character in UI copy or docs.
 
 ## Commands
+
 - npm run dev / npm run android / npm run web
 - npm test
 - npm run lint
+- npm run typecheck

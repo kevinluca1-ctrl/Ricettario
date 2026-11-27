@@ -1,0 +1,25 @@
+{
+  "app": {
+    "name": "Ricettario",
+    "tagline": "Your recipes, your kitchen, your atlas."
+  },
+  "home": {
+    "welcome": "Welcome",
+    "intro": "The recipe archive is coming soon. For now you can choose the app language in the settings.",
+    "openSettings": "Settings"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": {
+      "title": "Language",
+      "description": "Choose the language of the app. System follows your phone.",
+      "system": "System language",
+      "systemCurrent": "System language ({{language}})"
+    }
+  },
+  "language": {
+    "de": "Deutsch",
+    "en": "English",
+    "it": "Italiano"
+  }
+}
